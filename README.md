@@ -1,4 +1,10 @@
-# NInfer-4080
+# Arya NInfer — RTX 4070 Ti SUPER
+
+The `codex/arya-4070-ti-super` branch adds a pinned Windows launcher for Arya's RTX 4070 Ti SUPER 16 GB: 100K configured context, MTP3 and vision. See the [Arya setup and measured results](docs/arya-4070-ti-super.md). It preserves the working roofkid engine; no new kernel speedup is claimed. The original Windows fork remains on `master`.
+
+## Upstream NInfer-4080
+
+The following description and RTX 4080 measurements belong to [roofkid/ninfer-4080](https://github.com/roofkid/ninfer-4080).
 
 **Qwen3.8-27B on a single 16 GB RTX 4080, at 100K context, with vision and speculative decoding.**
 

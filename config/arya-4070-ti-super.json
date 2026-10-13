@@ -2,8 +2,8 @@
   "image": "roofkid/ninfer-4080@sha256:bfbf286f429651295ed73feb8ef4f52a7bac30237d995c7e8dfeb37bb79867f9",
   "context": 102400,
   "kvDtype": "rk4v4-e8",
-  "prefillChunk": 1024,
+  "prefillChunk": 2688,
   "hostKvMiB": 4096,
   "draftTokens": 3,
-  "ngram": "off"
+  "ngram": "chain"
 }
